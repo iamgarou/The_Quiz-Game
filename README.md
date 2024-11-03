@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/quiz-game.git
+git clone https://github.com/iamgarou/The_Quiz-Game.git
 cd quiz-game
 Run the application:
 
